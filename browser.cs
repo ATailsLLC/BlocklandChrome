@@ -1,0 +1,4 @@
+package BChrome
+{
+}
+activatePackage(BChrome);
