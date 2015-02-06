@@ -1,0 +1,3 @@
+package BChrome
+{
+  function serverCmdcredits
